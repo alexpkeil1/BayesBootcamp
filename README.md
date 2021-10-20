@@ -11,4 +11,4 @@ The unzipped folder should include the following scripts in the "R" folder (R la
 - bayes\_shortcourse\_ex3\_mixture.R: Bayesian linear regression with coefficient mixture priors	
 - bayes\_shortcourse\_ex4\_bma\_gcomp.R: Bayesian linear regression and g-computation with Bayesian model averaging/selection (BMA) priors
 
-The rest of the exercises can be found in "exercises.docx"
+The group exercises can be found in "BBB_exercises.docx"
