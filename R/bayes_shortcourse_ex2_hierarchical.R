@@ -26,7 +26,6 @@ data1 <- bayes.sim(m=250, beta1=.3, beta2=.3, beta3=.3, beta4=.3, beta5=0, std=1
                    c12=.9, c13=.9, c14=.8, c15=.1, c23=.8, c24=.8, c25=.1, c34=.9, c35=.1, c45=.1)
 
 
-
 #################################################################################
 ##### Below is the popular Bayesian Hierarchical model (a.k.a Semi or Empirical)
 ##### This model leverages the assumption that the effects of each exposure
@@ -64,7 +63,7 @@ b.shared <- function() {
 ## in the basic output and will be accessible via a dataset that we create to
 ## assess convergence
 
-b.shared.parms <- c('b[1:5]') # note the (arbitrary) different specification of this from b1.ind.parms
+b.shared.parms <- c('b[1:5]', 'beta.m', 'sigma.beta') # note the (arbitrary) different specification of this from b1.ind.parms
 
 
 
