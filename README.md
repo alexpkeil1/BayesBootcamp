@@ -1,4 +1,5 @@
-###BayesBootcamp
+# BayesBootcamp
+
 Programs and exercises to accompany the EPICOH 2021 workshop "The Brothers Bayes' Boisterous Bootcamp." Download the files contained in this repository by clicking on the green "Code" button and scroll down to "Download Zip." The code will be easiest to run if you unzip the downloaded file in the default "Downloads" folder of your computer. ![](download.png). 
 
 
